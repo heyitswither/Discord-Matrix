@@ -1,0 +1,4 @@
+git+https://github.com/shawnanastasio/python-matrix-bot-api@master
+git+https://github.com/matrix-org/matrix-python-sdk@master
+git+https://github.com/Rapptz/discord.py@rewrite
+PyYAML

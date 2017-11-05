@@ -1,0 +1,8 @@
+matrix:
+    room_id: unix-like:matrix.org
+    username: ohok
+    password: nice
+    homeserver: https://matrix.org:8008
+discord:
+    channel_id: beep
+    token: boop
